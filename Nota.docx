@@ -1,0 +1,74 @@
+Pengenalan Github Untuk Pemula
+
+Contoh profil github [google-translator]Jika kita suka mendownload sample code dari tutorial pemerograman maka biasanya saat kita mendownload, link akan diredirect ke github. Saat kita mau mencoba software open source seperti Twitter Bootstrap, saat download pun kita akan di redirect ke github, Jadi github itu apa sih? Github adalah  software Hosting untuk proyek open source  yang menggunakan Tool  System revisi kontrol Git.  Jadi Git adalah tool untuk melakukan revisi code, sedangkan github adalah webhostingnya. Mudahnya Github adalah Webhosting untuk proyek proyek software seperti Google code atau sourceforge.net.  Dalam bahasa gaul, Github adalah jejaring social untuk software developer.
+Yang membedakan Github dari Project hosting yang lain bisa kita lihat di bawah ini
+
+Github menggunakan Git sebagai tool utama dalam merevisi code.
+Github menyediakan free hosting untuk proyek open source, namun Github juga menawarkan  hosting berbayar untuk proyek perusahaan atau pribadi yang sifatnya privat.
+Github ditargetkan untuk para developer yang bekerja secara tim dan tidak disatu tempat.
+Github mempunyai fitur Social seperti  Twitter seperti follow atau favorit (Star).
+Github mendukung semua bahasa pemrograman, anda bebas memakai bahasa dan tool yang biasa anda pakai.
+Fitur social digithub
+
+Beberapa fitur Social di Github:
+
+Github user profile.
+Follow, Kita bisa memfollow profil progammaer lain di github.
+Star, fungsinya sama dengan Bookmark.
+Watch, memonitor repository tertentu. Setiap ada perubahan di Repo, maka kita akan dikirim notifikasi.
+Fork, mengcopy keseluruhan code repository ke repo kita sendiri.
+Github Profile
+
+Sama seperti Twitter, Github juga mempunyai profil. Profil berisi foto, jumlah repo yang dimiliki, jumlah follower, jumlah user yang kita follow dan Star (jumlah proyek yang kita beri tanda bintang).
+
+Contoh profil github
+Contoh profil github
+Biasanya makin banyak followernya, makin canggih skill user tersebut. Profil diatas adalah profil saya, nah keliatan kan, saya masih pemula di Github.
+
+Fitur pencarian
+
+pencarian di github
+pencarian di github
+Github mempunyai lebih dari 10 juta repo sofware. Nah banyak banget kan? Jika anda ingin mencari proyek open source tertentu, gunakan fitur pencarian, Hasil pencarian tampak seperti di gambar 2 diatas. Untuk memperkecil  hasil pencarian bisa di filter  berdasarkan Repo, code, issue atau nama user atau bahasa pemrograman. Hasil pencarian bisa diurutkan berdasarkan jumlah bintang tau jumlah “fork”. Biasanya makin banyak bintangnya, makin berkualitas source codenya.
+
+
+ 
+Struktur halaman proyek di Github
+
+github1
+Struktur Halaman proyek di Github
+Contoh di gambar 3 adalah struktur poyek dari Twitter Bootstrap, CSS framework paling populer saat ini. Mari kita analisa satu persatu struktur halamannya.
+
+Bagian Statistik
+
+Bagian pertama adalah statistik, kia bisa melihat jumlah Watch, star dan fork dibagian atas halaman. Bootstrap adalah salahsatu proyek paling populer di github, maka jangan heran jika ada lebih dari 63 ribu user yang memberi tanda bintang.
+
+Bagian Code 
+
+Bagian utama dari struktur proyek ini adalah code itu sendiri. Kode ini juga berisi penjelasan kapan dan apa file terakhir yang diedit berserta penjelasan perubahan apayang terjadi.
+
+Bagian Clone dan Download
+
+Clone in desktop  di pakai untuk mengkopi source code proyek terserbut ke komputer kita , namun komputer kita harus sudah terinstall Github for Windows atau Mac. Bagian paling penting dan paling sering dipakai adalah menu DOWNLOAD.  jika anda ingin langsung mencoba code di komputer , cukup klik download, maka source code otomatis akan dizip dan diunduh ke kompuer anda.
+
+Github Gist
+
+Selain fitur diatas, ada satu lagi fitur github yang cukup bermanfaat, fitur itu bernama gist. Gist adalah layanan share snippet dari github. Biasanya hanya potongan code pendek untuk memecahkan solusi di bahasa pemrograman tertentu. Sebagai contoh, anda ingin tahu bagaimana cara menampilkan tanggal di php, anda cukup buka https://gist.github.com. lalu masukan query “php date”.
+
+Contoh pencarian snipet code di Gist
+
+Sample hasil pencarian gist untuk php date
+Sample hasil pencarian gist untuk php date
+Berbagi snipet code di Gist
+
+Jika anda ingin berbagi snippet atau fungsi tertentu, misalkan anda ingin memberikan snippet fungsi chaptca, cukup klik “create gist” dan copas code anda dan berikan penjelasan code secukupnya, Jika ada yang bertanya tentang captcha, anda cukup mengshare link ke GIST tersebut.
+
+Contoh gist berisi snippet code fungsi format rupiah di php
+Contoh gist berisi snippet code fungsi format rupiah di php
+Disini saya juga mengajak anda semua termasuk mahasiswa IT dan programmer untuk berbagi code sehingga bermanfaat bagi orang lain atau programer lain, ga ada ruginya kok, semakin sering orang memakai code anda, reputasi anda makin meningkat bukan? Jadi jangan pelit sharing code ya :D
+
+Penutup
+
+
+ 
+Tulisan ini hanya membahas fitur dan tampilan Website github secara umum dan bukan menejelaskan cara memakai git. Jika anda ingin mempelajari cara kerja berkolaborasi di github dengan git revision control, maka saya sarankan anda buka halaman http://training.github.com/resource.
